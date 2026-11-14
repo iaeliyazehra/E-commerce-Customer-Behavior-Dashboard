@@ -8,4 +8,6 @@ A Streamlit dashboard that analyzes customer behavior and purchasing patterns us
 2. Time on App has a positive relationship with yearly spending.
 3. Time on Website has almost no relationship with yearly spending.
 
+## Live App
 
+https://e-commerce-customer-behavior-dashboard-p9eez3nbpebfhgzskpya6v.streamlit.app/
